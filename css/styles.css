@@ -1,0 +1,10 @@
+.wpscp_container {width:100%;}
+.wpscp_container li {padding: 5px 0 5px 0; list-style:none}
+.wpscp_container h3 a{font-size: 14px; text-decoration: none;}
+.wpscp_container h3 a:hover{color: #000;}
+.wpscp_container span{font-size: 12px;}
+.wpscp_container p{font-size: 12px;}
+.wpscp_container .wpscp_img_box {float: left;}  
+.wpscp_img_box a img{width: 100px; height:100px;}
+.wpscp_detail img {width: 100px; height:100px;}
+.wpscp_readmore {color:#000; font-size: 12px; text-decoration: none;}
